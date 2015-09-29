@@ -2,5 +2,6 @@
 **Note:**
 1. [Coding Questions](#coding-questions)
 1. [Fun Questions](#fun-questions)
-'''
-javascript
+```javascript
+var foo = 10 + '20';
+```
